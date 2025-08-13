@@ -21,9 +21,7 @@ class Solution {
         }
     }
 
-    // Compare contents
-    // String s1 = String.valueOf(f1);
-    // String s2 = String.valueOf(f2);
+    
 
     return f1.equals(f2); // Stacks can be directly compared here
     }
